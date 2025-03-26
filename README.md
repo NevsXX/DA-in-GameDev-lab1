@@ -1,6 +1,6 @@
 # АНАЛИЗ ДАННЫХ И ИСКУСТВЕННЫЙ ИНТЕЛЕКТ
 Отчет по лабораторной работе #1 выполнил:
-- Поляков Александр Дмитриевич
+- Лыжин Лев Дмитриевич
 - РИ-230913 
 Отметка о выполнении заданий (заполняется студентом):
 
@@ -46,7 +46,8 @@
 
 
 
-![image]![image](https://github.com/user-attachments/assets/0cee7a76-f734-4e7f-b55b-43210a5de93a)
+![image](https://github.com/user-attachments/assets/46ffaf2d-595e-4692-a65c-4ca79bc100d6)
+)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
@@ -59,15 +60,14 @@
 
 ```C#
 
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Helloworld : MonoBehaviour 
+public class helloworld : MonoBehaviour
 {
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Hello world!");
+        Debug.Log("Hello World");
     }
 }
 
@@ -75,7 +75,8 @@ public class Helloworld : MonoBehaviour
 ```
 - Повесить скрипт на объект и запустить проект.
 
-  ![image]![image](https://github.com/user-attachments/assets/1490fd42-2bff-4af9-aa11-8f70550e3cd9)
+ ![image](https://github.com/user-attachments/assets/6e522856-21da-4823-b5fd-1a409caf8fde)
+
 
 
 ## Выводы
